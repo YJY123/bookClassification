@@ -1,0 +1,22 @@
+2021-02-27 08:25:56,487 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-27 08:26:18,027 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:224] - INFO: load w2v model
+2021-02-27 08:26:27,848 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:228] - INFO: load fast model
+2021-02-27 08:26:37,248 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:232] - INFO: load complete fast model
+2021-02-27 08:26:42,094 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\data\mlData.py[line:46] - INFO: load data
+2021-02-27 08:26:47,568 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:235] - INFO: get all freature
+2021-02-27 08:26:47,568 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:108] - INFO: generate embedding feature 
+2021-02-27 08:35:07,448 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-27 08:35:29,268 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:224] - INFO: load w2v model
+2021-02-27 08:35:39,075 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:228] - INFO: load fast model
+2021-02-27 08:35:48,343 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:232] - INFO: load complete fast model
+2021-02-27 08:35:54,514 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:235] - INFO: load lda model
+2021-02-27 08:35:55,013 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:238] - INFO: load autoencoder model
+2021-02-27 08:36:00,764 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\data\mlData.py[line:46] - INFO: load data
+2021-02-27 08:36:09,258 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:237] - INFO: get all freature
+2021-02-27 08:36:09,258 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:108] - INFO: generate embedding feature 
+2021-02-27 08:36:16,891 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:119] - INFO: generate autoencoder feature 
+2021-02-27 08:36:19,371 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:137] - INFO: generate basic feature 
+2021-02-27 08:36:26,750 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:142] - INFO: generate modal feature 
+2021-02-27 08:43:51,745 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:169] - INFO: generate bert feature 
+2021-02-27 08:46:55,642 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:177] - INFO: generate lda feature 
+2021-02-27 08:46:56,191 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\ML\models.py[line:191] - INFO: formate data

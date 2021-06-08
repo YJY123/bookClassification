@@ -1,0 +1,8 @@
+2021-02-22 17:34:09,300 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:89] - INFO: load data
+2021-02-22 17:34:12,372 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:173] - INFO: train lda
+2021-02-22 17:43:35,695 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:209] - INFO: save lda model
+2021-02-22 18:39:32,634 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:229] - INFO: load lda model
+2021-02-22 18:50:53,173 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:229] - INFO: load lda model
+2021-02-22 18:52:42,377 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:229] - INFO: load lda model
+2021-02-22 18:53:30,740 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:229] - INFO: load lda model
+2021-02-22 19:02:16,349 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:229] - INFO: load lda model

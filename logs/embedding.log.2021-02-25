@@ -1,0 +1,59 @@
+2021-02-24 10:36:13,986 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:218] - INFO: load tfidf model
+2021-02-24 10:36:35,223 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load w2v model
+2021-02-24 10:36:44,710 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:43] - INFO: load data
+2021-02-24 10:39:13,734 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:218] - INFO: load tfidf model
+2021-02-24 10:39:27,145 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load w2v model
+2021-02-24 10:39:33,519 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:43] - INFO: load data
+2021-02-24 11:29:05,446 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:218] - INFO: load tfidf model
+2021-02-24 11:29:26,914 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load w2v model
+2021-02-24 11:29:34,257 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 11:29:40,018 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-24 11:30:20,984 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:218] - INFO: load tfidf model
+2021-02-24 11:30:34,390 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load w2v model
+2021-02-24 11:30:40,593 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:225] - INFO: load fast model
+2021-02-24 11:30:46,139 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 11:30:51,464 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-24 13:10:32,967 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:218] - INFO: load tfidf model
+2021-02-24 13:10:54,352 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load w2v model
+2021-02-24 13:11:04,042 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:225] - INFO: load fast model
+2021-02-24 13:11:13,198 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 13:11:21,810 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-24 13:34:37,694 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:218] - INFO: load tfidf model
+2021-02-24 13:34:50,725 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load w2v model
+2021-02-24 13:34:56,783 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:225] - INFO: load fast model
+2021-02-24 13:35:02,324 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 13:35:07,627 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-24 15:16:37,427 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-24 15:17:03,981 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:89] - INFO: load data
+2021-02-24 15:17:08,293 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:145] - INFO: train fast
+2021-02-24 15:42:35,990 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/word2vec/embedding.py[line:209] - INFO: save complete fast model
+2021-02-24 15:57:10,289 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-24 15:57:26,698 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:224] - INFO: load w2v model
+2021-02-24 15:57:32,966 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:228] - INFO: load fast model
+2021-02-24 15:57:38,520 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:232] - INFO: load complete fast model
+2021-02-24 15:57:42,262 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 15:57:47,959 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-24 15:59:08,533 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-24 15:59:21,713 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:224] - INFO: load w2v model
+2021-02-24 15:59:27,761 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:228] - INFO: load fast model
+2021-02-24 15:59:33,377 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:232] - INFO: load complete fast model
+2021-02-24 15:59:37,153 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 15:59:43,291 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-24 17:30:00,489 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-24 17:30:22,665 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:224] - INFO: load w2v model
+2021-02-24 17:30:32,547 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:228] - INFO: load fast model
+2021-02-24 17:30:41,897 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:232] - INFO: load complete fast model
+2021-02-24 17:30:48,318 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 17:30:57,022 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-24 17:44:37,745 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-24 17:44:59,262 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:224] - INFO: load w2v model
+2021-02-24 17:45:07,041 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:228] - INFO: load fast model
+2021-02-24 17:45:12,524 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:232] - INFO: load complete fast model
+2021-02-24 17:45:17,192 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-24 17:45:22,586 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
+2021-02-25 10:09:21,537 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:221] - INFO: load tfidf model
+2021-02-25 10:09:40,938 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:224] - INFO: load w2v model
+2021-02-25 10:09:47,317 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:228] - INFO: load fast model
+2021-02-25 10:09:53,348 - D:\project\NLP\code\bookClassification\bookClassification(solution)\src\word2vec\embedding.py[line:232] - INFO: load complete fast model
+2021-02-25 10:09:58,209 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:46] - INFO: load data
+2021-02-25 10:10:03,708 - D:/project/NLP/code/bookClassification/bookClassification(solution)/src/data/mlData.py[line:95] - INFO: generate embedding feature 
